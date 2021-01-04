@@ -1,0 +1,37 @@
+{
+  "logs": [
+    {
+      "id": 4,
+      "message": "Fixed AddLogModal",
+      "attention": true,
+      "tech": "Tim Breuel",
+      "date": "2020-08-06T09:55:07.384Z"
+    },
+    {
+      "message": "Fix the bug from delete tech",
+      "attention": true,
+      "tech": "Tim Breuel",
+      "date": "2020-08-06T13:55:28.617Z",
+      "id": 5
+    },
+    {
+      "message": "Check the endpoints",
+      "attention": false,
+      "tech": "Georgia Macrae-Otten",
+      "date": "2020-08-06T13:55:54.967Z",
+      "id": 6
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Chris",
+      "lastName": "Herzberg",
+      "id": 5
+    },
+    {
+      "firstName": "Tim",
+      "lastName": "Breuel",
+      "id": 6
+    }
+  ]
+}
